@@ -1,5 +1,6 @@
 # CodeIgniter 4 - Template SBAdmin 2
 
+![Alt text](../../../../c:/xampp/htdocs/ci4/TEMPLETE.png)
 ## Apakah ini?
 Sebuah website php berbasis framework [CI](https://codeigniter.com) yang telah dimodifikasi agar bisa terintegrasi dengan template [SBAdmin-2](https://startbootstrap.com/theme/sb-admin-2).
 Sehingga dalam struktur tampilan/view tidak perlu membuat dari awal, karena didalam ini sudah terdapat :
